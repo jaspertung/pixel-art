@@ -2,4 +2,4 @@
 
 
 
-![Gif with screenshots of pixel art project](pixel-art-gif.gif)
+![Gif with screenshots of pixel art project](/screenshots/pixel-art-gif.gif)
